@@ -1,5 +1,5 @@
 #!/usr/bin/env perl
-# Arrays asociativos 
+# Arrays asociativos -- vienen a ser diccionarios en pythno 
 # sus elementos asociados mediante una clave - valor 
 
 use strict;
